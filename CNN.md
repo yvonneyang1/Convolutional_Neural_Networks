@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Convolutional Neural Networks by DeepLearning.AI
 
-You can use the [editor on GitHub](https://github.com/yvonneyang1/Convolutional_Neural_Networks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find course detail in Coursera[editor on GitHub](https://www.coursera.org/learn/convolutional-neural-networks/home/info).
 
 ### Markdown
 
